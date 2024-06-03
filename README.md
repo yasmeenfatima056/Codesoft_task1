@@ -1,4 +1,3 @@
-
 # 📝 To-Do List Application using Tkinter
 
 ## 🚀 Overview
@@ -30,5 +29,5 @@ Undergrad IT Student | Learning ML and Web Development 👨‍💻🙌
 Lets connect and Know More!
 
 ## Authors
-https://github.com/yasmeenfatima056
-# Codesoft_task1
+- [Yasmeen](https://github.com/yasmeenfatima056)
+
